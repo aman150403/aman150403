@@ -16,7 +16,7 @@
 - System Design & Microservices  
 
 ### 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio-link.com) • [Email](mailto:youremail@example.com)
+[LinkedIn]((https://www.linkedin.com/in/aman-kumar-635299201/)) • [Email](mailto:amaksingh9098@gmail.com.com)
 
 ---
 
